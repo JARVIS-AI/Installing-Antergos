@@ -5,7 +5,7 @@
 **2 - Write programmes name and save their data and save screenshots or a lot of other things for saving your progress in your situation.**
 
 **3 - Download Antergos ISO from Its site**
-[http://antergos.com/download](http://antergos.com/download)
+[LINK](https://antergos.com/try-it/)
 
 **4 - Prepar good internet connection e.g. (LTE)**
 
